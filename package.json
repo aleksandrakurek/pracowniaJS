@@ -1,0 +1,73 @@
+{
+  "name": "pracowniaJS",
+  "private": true,
+  "description": "An engineering landing page",
+  "version": "0.1.0",
+  "author": "Aleksandra Kurek <kurek.aleksandrae@gmail.com>",
+  "dependencies": {
+    "axios": "0.19.0",
+    "babel-plugin-styled-components": "1.10.0",
+    "dotenv": "8.0.0",
+    "eslint-plugin-graphql": "3.0.3",
+    "gatsby": "2.1.24",
+    "gatsby-background-image": "0.2.5",
+    "gatsby-image": "2.0.31",
+    "gatsby-pagination": "1.2.0",
+    "gatsby-plugin-disqus": "1.1.2",
+    "gatsby-plugin-manifest": "2.0.22",
+    "gatsby-plugin-offline": "2.0.24",
+    "gatsby-plugin-react-helmet": "3.0.8",
+    "gatsby-plugin-sharp": "2.0.28",
+    "gatsby-plugin-styled-components": "3.0.7",
+    "gatsby-plugin-transition-link": "1.12.3",
+    "gatsby-source-apiserver": "^2.1.1",
+    "gatsby-source-filesystem": "2.0.23",
+    "gatsby-source-graphql": "2.0.15",
+    "gatsby-source-wordpress": "3.0.47",
+    "gatsby-transformer-sharp": "2.1.17",
+    "graphql": "14.1.1",
+    "graphql-tools": "4.0.4",
+    "gsap": "2.1.2",
+    "html-react-parser": "^0.9.1",
+    "jquery": "3.3.1",
+    "js-cookie": "2.2.0",
+    "lodash": "^4.17.15",
+    "nuka-carousel": "4.5.4",
+    "prop-types": "15.7.2",
+    "react": "16.8.4",
+    "react-burger-menu": "2.6.10",
+    "react-dom": "16.8.4",
+    "react-headroom": "2.2.8",
+    "react-helmet": "5.2.0",
+    "react-slick": "^0.25.2",
+    "react-sticky": "^6.0.3",
+    "slick-carousel": "^1.8.1",
+    "styled-bootstrap-grid": "3.0.2",
+    "styled-components": "4.1.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "10.0.1",
+    "eslint": "5.15.1",
+    "eslint-plugin-react": "7.12.4",
+    "prettier": "1.16.4"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
