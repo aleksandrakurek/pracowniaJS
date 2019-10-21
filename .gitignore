@@ -1,3 +1,22 @@
+### macOS ###
+# General
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/librariesa
+.idea/caches
+.idea/caches/build_file_checksums.ser
+.idea/modules.xml
+.idea
+
+public.zip
+
 # Logs
 logs
 *.log
@@ -53,7 +72,7 @@ typings/
 
 # dotenv environment variables file
 .env
-
+s
 # gatsby files
 .cache/
 public
@@ -67,3 +86,4 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+yarn.lock
