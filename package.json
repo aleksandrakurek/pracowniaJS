@@ -23,7 +23,7 @@
     "gatsby-source-apiserver": "^2.1.1",
     "gatsby-source-filesystem": "2.0.23",
     "gatsby-source-graphql": "2.0.15",
-    "gatsby-source-wordpress": "3.0.47",
+    "gatsby-source-wordpress": "4.0.8",
     "gatsby-transformer-sharp": "2.1.17",
     "graphql": "14.1.1",
     "graphql-tools": "4.0.4",
